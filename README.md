@@ -11,15 +11,15 @@ This task involves creating a web page to parse and normalize personal data usin
 The normalized data will be displayed as an output in a table.
 
 # Data Validation
-    •The Name and Surname fields are required and must be present in each line of data. 
-        If either of these fields is empty, the data is considered invalid.
-    •The Telephone field is optional, but if present, it must be in a valid format. 
+    • The Name and Surname fields are required and must be present in each line of data. 
+      If either of these fields is empty, the data is considered invalid.
+    • The Telephone field is optional, but if present, it must be in a valid format. 
         Valid formats for telephone numbers include:
           o	+4915712345689
           o	4915712345689
           o	+1-98712345689
-    •	The Name and Surname fields may contain special characters.
-    •	There cannot be duplicated data within the dataset.
+    • The Name and Surname fields may contain special characters.
+    • There cannot be duplicated data within the dataset.
 
 The line is split into array with ‘space’ for example, the input should be like:
 
