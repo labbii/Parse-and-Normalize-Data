@@ -3,14 +3,11 @@
 # Overview
 This task involves creating a web page to parse and normalize personal data using HTML, CSS, and JavaScript. Each person's data is represented on a single line and consists of the following fields in the following order:
 
-  •	Salutation (optional)
-  
-  •	Name (required)
-  
-  •	Surname (required)
-  
-  •	Telephone (optional)
-  •	Email (optional)
+    •	Salutation (optional)
+    •	Name (required)
+    •	Surname (required) 
+    •	Telephone (optional)
+    •	Email (optional)
 The normalized data will be displayed as an output in a table.
 
 # Data Validation
