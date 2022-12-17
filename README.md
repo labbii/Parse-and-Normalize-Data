@@ -23,10 +23,7 @@ The normalized data will be displayed as an output in a table.
 
 The line is split into array with ‘space’ for example, the input should be like:
 
-  Mr. Max Mustermann +4915712345689 max@example.com
-  
-  John Doe john@example.com
-  
-  Mrs Alice Wonderland +1-98712345689
-  
-  Harry Potter 
+    Mr. Max Mustermann +4915712345689 max@example.com
+    John Doe john@example.com
+    Mrs Alice Wonderland +1-98712345689
+    Harry Potter 
