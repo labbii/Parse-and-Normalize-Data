@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kyto Developer Task </title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="heading-text">
+     <h1 class="heading-h1">Kyto Developer Task</h1>
+     <p>Enter personal data below in the following order: salutation, name, surname, telephone, email, seperated by space!</p>
+     <p>Name and surname are required, other data are optional!</p>
+     <p>For example the input can be:<br><br> 
+        Mr. Max Mustermann +4915712345689 max@example.com<br>
+        John Doe john@example.com<br>
+        Mrs Alice Wonderland +1-98712345689<br>
+        Harry Potter
+     </p>
+  </div>
+ 
+  <form id="form">
+    <textarea id="data-input" rows="7" cols="100"></textarea>
+    <br>
+    <button type="button" onclick="submitData()">Submit Data</button>
+  </form>
+  <br>
+  <table id="output-table" border="1">
+    <tr>
+      <th>Salutation</th>
+      <th>Name</th>
+      <th>Surname</th>
+      <th>Telephone</th>
+      <th>Email</th>
+    </tr>
+  </table>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
