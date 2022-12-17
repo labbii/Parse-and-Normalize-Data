@@ -14,7 +14,7 @@ The normalized data will be displayed as an output in a table.
     • The Name and Surname fields are required and must be present in each line of data. 
       If either of these fields is empty, the data is considered invalid.
     • The Telephone field is optional, but if present, it must be in a valid format. 
-        Valid formats for telephone numbers include:
+      Valid formats for telephone numbers include:
           o	+4915712345689
           o	4915712345689
           o	+1-98712345689
