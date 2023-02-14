@@ -1,4 +1,4 @@
-# KytoDeveloperTask
+#Parse and normalize data
 
 # Overview
 This task involves creating a web page to parse and normalize personal data using HTML, CSS, and JavaScript. Each person's data is represented on a single line and consists of the following fields in the following order:
